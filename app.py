@@ -1,11 +1,8 @@
+'''This module contains a greeting function.'''
 
-
-'''this is a greeting function'''
 def greetings():
-    
-    '''this greets my friends'''
-    
+    '''This function greets my friends.'''
     print("hello world")
-    
+
 greetings()
 
